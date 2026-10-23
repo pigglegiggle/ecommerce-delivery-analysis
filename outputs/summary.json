@@ -1,0 +1,189 @@
+{
+  "orders_in_file": 99441,
+  "delivered_orders_with_dates": 96470,
+  "reviewed_delivered_orders": 95824,
+  "late_deliveries": 7826,
+  "late_delivery_rate": 0.0811,
+  "average_review_score": 4.16,
+  "reviews_by_delivery_timing": [
+    {
+      "timing": "On time",
+      "reviewed_orders": 88163,
+      "average_review_score": 4.29
+    },
+    {
+      "timing": "1\u20137 days late",
+      "reviewed_orders": 4409,
+      "average_review_score": 3.18
+    },
+    {
+      "timing": "8+ days late",
+      "reviewed_orders": 3252,
+      "average_review_score": 1.73
+    }
+  ],
+  "late_deliveries_by_state": [
+    {
+      "state": "SP",
+      "state_name": "S\u00e3o Paulo",
+      "delivered_orders": 40494,
+      "late_deliveries": 2387
+    },
+    {
+      "state": "RJ",
+      "state_name": "Rio de Janeiro",
+      "delivered_orders": 12350,
+      "late_deliveries": 1664
+    },
+    {
+      "state": "MG",
+      "state_name": "Minas Gerais",
+      "delivered_orders": 11354,
+      "late_deliveries": 637
+    },
+    {
+      "state": "BA",
+      "state_name": "Bahia",
+      "delivered_orders": 3256,
+      "late_deliveries": 457
+    },
+    {
+      "state": "RS",
+      "state_name": "Rio Grande do Sul",
+      "delivered_orders": 5344,
+      "late_deliveries": 382
+    },
+    {
+      "state": "SC",
+      "state_name": "Santa Catarina",
+      "delivered_orders": 3546,
+      "late_deliveries": 346
+    },
+    {
+      "state": "PR",
+      "state_name": "Paran\u00e1",
+      "delivered_orders": 4923,
+      "late_deliveries": 246
+    },
+    {
+      "state": "ES",
+      "state_name": "Esp\u00edrito Santo",
+      "delivered_orders": 1995,
+      "late_deliveries": 244
+    },
+    {
+      "state": "CE",
+      "state_name": "Cear\u00e1",
+      "delivered_orders": 1279,
+      "late_deliveries": 196
+    },
+    {
+      "state": "PE",
+      "state_name": "Pernambuco",
+      "delivered_orders": 1593,
+      "late_deliveries": 172
+    },
+    {
+      "state": "GO",
+      "state_name": "Goi\u00e1s",
+      "delivered_orders": 1957,
+      "late_deliveries": 160
+    },
+    {
+      "state": "DF",
+      "state_name": "Federal District",
+      "delivered_orders": 2080,
+      "late_deliveries": 147
+    },
+    {
+      "state": "MA",
+      "state_name": "Maranh\u00e3o",
+      "delivered_orders": 717,
+      "late_deliveries": 141
+    },
+    {
+      "state": "PA",
+      "state_name": "Par\u00e1",
+      "delivered_orders": 946,
+      "late_deliveries": 117
+    },
+    {
+      "state": "AL",
+      "state_name": "Alagoas",
+      "delivered_orders": 397,
+      "late_deliveries": 95
+    },
+    {
+      "state": "MS",
+      "state_name": "Mato Grosso do Sul",
+      "delivered_orders": 701,
+      "late_deliveries": 81
+    },
+    {
+      "state": "PI",
+      "state_name": "Piau\u00ed",
+      "delivered_orders": 476,
+      "late_deliveries": 76
+    },
+    {
+      "state": "MT",
+      "state_name": "Mato Grosso",
+      "delivered_orders": 886,
+      "late_deliveries": 60
+    },
+    {
+      "state": "PB",
+      "state_name": "Para\u00edba",
+      "delivered_orders": 517,
+      "late_deliveries": 57
+    },
+    {
+      "state": "RN",
+      "state_name": "Rio Grande do Norte",
+      "delivered_orders": 474,
+      "late_deliveries": 51
+    },
+    {
+      "state": "SE",
+      "state_name": "Sergipe",
+      "delivered_orders": 335,
+      "late_deliveries": 51
+    },
+    {
+      "state": "TO",
+      "state_name": "Tocantins",
+      "delivered_orders": 274,
+      "late_deliveries": 35
+    },
+    {
+      "state": "RO",
+      "state_name": "Rond\u00f4nia",
+      "delivered_orders": 243,
+      "late_deliveries": 7
+    },
+    {
+      "state": "AM",
+      "state_name": "Amazonas",
+      "delivered_orders": 145,
+      "late_deliveries": 6
+    },
+    {
+      "state": "RR",
+      "state_name": "Roraima",
+      "delivered_orders": 41,
+      "late_deliveries": 5
+    },
+    {
+      "state": "AP",
+      "state_name": "Amap\u00e1",
+      "delivered_orders": 67,
+      "late_deliveries": 3
+    },
+    {
+      "state": "AC",
+      "state_name": "Acre",
+      "delivered_orders": 80,
+      "late_deliveries": 3
+    }
+  ]
+}
