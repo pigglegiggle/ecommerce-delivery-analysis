@@ -20,6 +20,12 @@ The analysis includes **96,470 delivered orders** with both delivery dates. **7,
 
 São Paulo had the most late deliveries (**2,387**), followed by Rio de Janeiro (**1,664**). Late deliveries and lower reviews appear together in this data; this does not prove that a delay caused a low review.
 
+## Dashboard Preview
+
+![E-commerce delivery dashboard](reports/dashboard-screenshot.png)
+
+[Open the dashboard](reports/dashboard.html)
+
 ## Data
 
 - **Dataset:** [Brazilian E-Commerce Public Dataset by Olist on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
